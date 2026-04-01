@@ -4,4 +4,4 @@ Everybody was kung fu fighting
 Local first file changed online
 Local first file changed offline
 
-Second change to branch
+Merge branch
