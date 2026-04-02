@@ -2,3 +2,14 @@
 
 
 ## I heard some ppl were late for school... Anybody knows why?
+
+
+id otn wannan
+
+f
+sa
+fa
+f
+a
+f
+
