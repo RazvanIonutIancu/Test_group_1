@@ -28,8 +28,12 @@ naasda dasdasdasd
 gadfasbfbasfbasbfabfjas
 
 
+<<<<<<< HEAD
 ghad
 gfagasgasgasga
 sg
 
 
+=======
+gdjfasdgashdasghdjk
+>>>>>>> 2ca500578bf9dc24781387a9d9ceddb9b8d2c2f6
