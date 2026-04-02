@@ -2,3 +2,10 @@
 
 
 ## I heard some ppl were late for school... Anybody knows why?
+
+
+yes ig hello
+
+no
+
+maybe
